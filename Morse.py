@@ -20,7 +20,7 @@ def banner():
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝
         
 """ + W)
-    print(Y + "     🔐 HASNAIN DARK NET CYBER TOOLKIT 🔐\n" + W)
+    print(Y + "     🔐 DANISH DHANJAL CYBER TOOLKIT 🔐\n" + W)
 
 # ===== MORSE =====
 MORSE = {
