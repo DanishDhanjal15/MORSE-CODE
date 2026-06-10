@@ -1,47 +1,43 @@
 # 🔐 MORSE CYBER TOOLKIT
 
 ## 👤 Created By
-HasnainDarkNet
+DanishDhanjal15
 
 ---
 
 ## 📌 Description
 
-Morse Cyber Toolkit ek simple cybersecurity learning tool hai jo beginners ko encoding aur decoding concepts samajhne me help karta hai. Is tool ka main focus Morse Code, Base64 encoding, aur basic file analysis par hai.
+Morse Cyber Toolkit is a simple cybersecurity learning tool that helps beginners understand encoding and decoding concepts. The main focus of this tool is on Morse Code, Base64 encoding, and basic file analysis.
 
 ---
 
 ## ⚙️ Features
 
-- Morse Code Encode karna  
-- Morse Code Decode karna  
-- Base64 Encode karna  
-- Base64 Decode karna  
-- File content extract karna  
+* Encode Morse Code
+* Decode Morse Code
+* Encode Base64
+* Decode Base64
+* Extract file content
 
 ---
 
 ## 🧠 Purpose
 
-Is tool ka use cybersecurity learning, CTF practice, aur data encoding/decoding concepts samajhne ke liye kiya jata hai. Ye real hacking tool nahi hai, balke educational toolkit hai.
+This tool is used for cybersecurity learning, CTF (Capture The Flag) practice, and understanding data encoding/decoding concepts. It is not a real hacking tool; rather, it is an educational toolkit.
 
 ---
 
 ## 🔐 Cybersecurity Use
 
-- Hidden messages ko samajhna  
-- Encoded data ko decode karna  
-- Forensics basics learning  
-- CTF challenges solve karna  
+Understand hidden messages
+Decode encoded data
+Learn the basics of digital forensics
+Solve CTF (Capture The Flag) challenges
 
----
-
-## ⚠️ Warning
-
-Ye tool sirf educational purpose ke liye hai. Iska misuse illegal ho sakta hai. Ethical cybersecurity practice ko follow karein.
-
----
 
 ## 🚀 Note
 
-Cybersecurity me understanding tools se zyada important hoti hai. Ye toolkit aapko basics samajhne me help karta hai.
+**Translation:**
+
+*In cybersecurity, understanding is more important than tools. This toolkit helps you understand the fundamentals.*
+
