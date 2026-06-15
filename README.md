@@ -35,7 +35,7 @@ Learn the basics of digital forensics
 Solve CTF (Capture The Flag) challenges
 
 
-## 🚀 Note
+## 🚀 NOTE
 
 **Translation:**
 
